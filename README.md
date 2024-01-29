@@ -4,7 +4,7 @@ Do you want to feel like a hacker from the Matrix movie? Do you want to impress 
 
 If you answered yes to any of these questions, then this extension is for you!
 
-This extension allows you to run a matrix code emulator in your vscode terminal. It will fill your screen with green characters that look like they are falling from the top. It will also make some random noises to enhance the effect.
+This extension allows you to run a matrix code emulator in your vscode terminal. It will fill your screen with green characters that look like they are falling from the top. 
 
 ## How to use it
 

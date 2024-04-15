@@ -8,7 +8,7 @@ This extension allows you to run a matrix code emulator in your vscode terminal.
 
 ## How to use it
 
-To use this extension, you need to have **Python** and **curses** installed on your system. You can install curses by running `pip install windows-curses` on Windows or `pip install curses` on Linux or Mac.
+To use this extension, you need to have **Python** and **curses** installed on your system. You can install curses by running `pip install windows-curses` on Windows or `pip install curses` on Linux or Mac and a python environment, anaconda has the couple other dependencies.
 
 Then, you need to open a new terminal in vscode and run the following command:
 
